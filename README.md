@@ -1,7 +1,7 @@
 python-lua
 ==========
 
-python lua module write by c
+python lua module writed by c, depends on lua 5.1, lua 5.2 not supoorted.
 
 ##INSTALL
 edit Makefile
